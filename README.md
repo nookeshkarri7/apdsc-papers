@@ -7,7 +7,7 @@ AP DSC Papers is a free Android app with the AP DSC 2025 previous question paper
 [![AP DSC Papers: solved previous papers with Telugu explanations. Watch the teaser](docs/assets/og.png)](https://youtu.be/7Y9s0w_10Ho)
 
 <p>
-<img src="docs/assets/1-home.webp" width="200" alt="Home screen listing the latest solved AP DSC paper sections">
+<img src="docs/assets/1-home.webp" width="200" alt="Home screen: pick your post, SGT, SA, TGT and more">
 <img src="docs/assets/3-answer.webp" width="200" alt="A maths question answered, with the correct option marked and a Telugu explanation">
 <img src="docs/assets/4-practice.webp" width="200" alt="Practice filters by year, subject and post">
 <img src="docs/assets/6-dark.webp" width="200" alt="Home screen in dark mode">
@@ -15,6 +15,7 @@ AP DSC Papers is a free Android app with the AP DSC 2025 previous question paper
 
 ## What's inside
 
+- **Three taps to a paper.** Pick your post, then the year, then the paper.
 - **Real AP DSC papers.** SGT, School Assistant and TGT papers from the 2025 Mega DSC, listed by exam date and shift.
 - **One section at a time.** GK and current affairs, perspectives in education, educational psychology, languages, maths, science, social studies, special education.
 - **Questions as printed.** Telugu and English text with the four options, exactly as in the paper.
